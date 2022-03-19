@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlicmFyeXxlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div{
+    background-color: rgb(226, 226, 226);
+    border-radius: 5px;
+}
+.btn{
+    background-image: linear-gradient(tomato,rgb(255, 136, 25));
+}
+.footer{
+    background-image: linear-gradient(rgb(66, 65, 65),rgb(80, 75, 75));
+}
